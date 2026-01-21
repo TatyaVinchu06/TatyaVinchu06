@@ -2,7 +2,7 @@
 
   <img 
     src="https://media.tenor.com/i8PN8RrpWvEAAAAi/golden-white-towel-guy-cool.gif"
-    width="180"
+    width="300"
     alt="cool vibe gif"
   />
 
