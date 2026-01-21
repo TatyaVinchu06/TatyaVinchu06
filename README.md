@@ -1,7 +1,7 @@
 <div align="center">
 
   <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVhhO5j4kf1kRp0SoCPfBbtIMyt-ButPCyOA&s"
+    src="https://i.pinimg.com/1200x/86/64/6e/86646e972075bfd2c4291791d305a209.jpg"
     width="1000"
     alt="cool vibe gif"
   />
