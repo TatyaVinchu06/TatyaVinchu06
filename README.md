@@ -2,7 +2,7 @@
 
   <img 
     src="https://media1.tenor.com/m/TFD6Ei948dgAAAAC/one-piece.gif"
-    width="700"
+    width="500"
     alt="cool vibe gif"
   />
 
