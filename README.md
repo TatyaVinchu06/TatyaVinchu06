@@ -2,7 +2,7 @@
 
   <img 
     src="https://i.pinimg.com/1200x/86/64/6e/86646e972075bfd2c4291791d305a209.jpg"
-    width="1000"
+    width="900"
     alt="cool vibe gif"
   />
 
