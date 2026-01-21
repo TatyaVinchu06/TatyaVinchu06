@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/6ftWUtjeBfQAAAAC/luffy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Luffy GIF" />
+  <img src="https://media.tenor.com/i8PN8RrpWvEAAAAi/golden-white-towel-guy-cool.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Luffy GIF" />
 
   <h1 align="center" style="color: #0077be;">
     ⚓ Ahoy! I'm Om Sanjay Bhamare ⚓
