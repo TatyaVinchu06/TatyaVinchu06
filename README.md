@@ -1,11 +1,11 @@
 <div align="center">
-<div align="left">
+
   <img 
     src="https://media.tenor.com/i8PN8RrpWvEAAAAi/golden-white-towel-guy-cool.gif"
     width="180"
     alt="cool vibe gif"
   />
-</div>
+
 
   <h1 align="center" style="color: #0077be;">
     ⚓ Ahoy! I'm Om Sanjay Bhamare ⚓
