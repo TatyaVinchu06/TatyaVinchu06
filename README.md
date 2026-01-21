@@ -1,7 +1,7 @@
 <div align="center">
 
   <img 
-    src="https://media.tenor.com/_e9tNjdeqAkAAAAi/picking-nose-monkey-d-luffy.gif"
+    src="https://media1.tenor.com/m/TFD6Ei948dgAAAAC/one-piece.gif"
     width="700"
     alt="cool vibe gif"
   />
