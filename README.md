@@ -70,7 +70,8 @@ I am a **2nd Year B-Tech student**, navigating the vast ocean of technology. Cur
   <img src="https://github-readme-stats.vercel.app/api?username=TatyaVinchu06&show_icons=true&theme=transparent&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatyaVinchu06&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
 </div>
----
+
+
 
 <div align="center">
   <br/>
