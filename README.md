@@ -1,7 +1,7 @@
 <div align="center">
 
   <img 
-    src="https://media1.tenor.com/m/TFD6Ei948dgAAAAC/one-piece.gif"
+    src="https://i.pinimg.com/736x/0e/6d/7c/0e6d7cad728fe1dcf15b5eed3205ff03.jpg"
     width="500"
     alt="cool vibe gif"
   />
