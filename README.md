@@ -67,8 +67,8 @@ I am a **2nd Year B-Tech student**, navigating the vast ocean of technology. Cur
 ### 📊 Pirate Bounty (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TatyaVinchu06&show_icons=true&theme=ocean_blue&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatyaVinchu06&layout=compact&theme=ocean_blue&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TatyaVinchu06&show_icons=true&theme=transparent&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatyaVinchu06&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
 </div>
 ---
 
