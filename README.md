@@ -66,6 +66,6 @@ I am a **2nd Year B-Tech student**, navigating the vast ocean of technology. Cur
 
 <div align="center">
   <br/>
-  <p><i>"I'm gonna be King of the Pirates!"</i></p>
+ <p><i>"If you don't take risks, you can't create a future." — Monkey D. Luffy</i></p>
   <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="80" alt="Straw Hat Flag" />
 </div>
