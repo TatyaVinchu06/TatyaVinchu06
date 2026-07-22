@@ -29,7 +29,7 @@
 
 ### 🗺️ The Log Pose (About Me)
 
-I am a **2nd Year B-Tech student**, navigating the vast ocean of technology. Currently docked at **SNJB COE**, I am building my ship with modern web technologies while exploring game development.
+I am a **3rd Year B-Tech student**, navigating the vast ocean of technology. Currently docked at **SNJB COE**, I am building my ship with modern web technologies while exploring game development.
 
 - 🔭 **Focus:** Full Stack Web Development.
 - 🌱 **Currently Learning:** The mechanics of **FiveM** (GTA V) Development.
